@@ -46,6 +46,7 @@
       <comments>A business-friendly OSS license</comments>
     </license>
   </licenses>
+  <!-- 
   <dependencyManagement>
     <dependencies>
       <dependency>
@@ -73,7 +74,8 @@
         <version>${awaitility.version}</version>
       </dependency>
     </dependencies>
-  </dependencyManagement>
+  </dependencyManagement> 
+-->
   <dependencies>
     <dependency>
       <groupId>org.springframework.boot</groupId>
